@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ratchanon (Tae)</h1>
 <h3 align="center">Web and Mobile Developer from Thailand</h3>
 
-- 🌱 I’m currently learning **Flutter,React Native**
+- 🌱 I’m currently learning **Flutter,React Native,Next.js**
 
 - 👨‍💻 All of my projects are available at [portfolio-git-main-taetaew42gmailcoms-projects.vercel.app](portfolio-git-main-taetaew42gmailcoms-projects.vercel.app)
 
