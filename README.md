@@ -28,7 +28,7 @@ Codeium autocompletes your code with AI in all major IDEs. We [launched](https:/
 Contributions are welcome! Feel free to submit pull requests and issues related to the plugin.
 
 <br />
-
-![Example](https://user-images.githubusercontent.com/1908017/213154744-984b73de-9873-4b85-998f-799d92b28eec.gif)
-
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+[![autocomplete](https://codeium.com/badges/user/taete258/autocomplete)](https://codeium.com/profile/taete258)
+[![streak](https://codeium.com/badges/v2/user/taete258/streak)](https://codeium.com/profile/taete258)
 <br />
