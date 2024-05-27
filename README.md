@@ -29,7 +29,7 @@ Contributions are welcome! Feel free to submit pull requests and issues related 
 
 <br />
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
-
+<br />
 [![autocomplete](https://codeium.com/badges/user/taete258/autocomplete)](https://codeium.com/profile/taete258)
 <br />
 [![streak](https://codeium.com/badges/v2/user/taete258/streak)](https://codeium.com/profile/taete258)
